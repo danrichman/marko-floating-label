@@ -1,0 +1,7 @@
+{
+    "@label": "string",
+    "@selected": "boolean",
+    "@text": "string",
+    "@type": "string",
+    "@class": "string"
+}
