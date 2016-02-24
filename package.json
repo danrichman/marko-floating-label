@@ -5,6 +5,9 @@
     "type": "git",
     "url": "https://github.com/danrichman/marko-floating-label.git"
   },
+  "scripts": {
+    "test": "node_modules/.bin/mocha --ui bdd --reporter spec  ./test"
+  },
   "author": "Dan Richman <dan@level39.com>",
   "maintainers": "Dan Richman <dan@level39.com>",
   "dependencies": {
