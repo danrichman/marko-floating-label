@@ -1,0 +1,22 @@
+{
+  "name": "marko-floating-label",
+  "description": "Float Label Pattern for form input text fields with Marko Widgets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danrichman/marko-floating-label.git"
+  },
+  "author": "Dan Richman <dan@level39.com>",
+  "maintainers": "Dan Richman <dan@level39.com>",
+  "dependencies": {
+    "marko": "^3.0.0-alpha.2",
+    "marko-widgets": "^6.0.0-alpha.1"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.15.1"
+  },
+  "license": "MIT",
+  "bin": {},
+  "main": "index.js",
+  "version": "1.0.0"
+}
