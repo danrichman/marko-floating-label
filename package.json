@@ -18,5 +18,8 @@
   "license": "MIT",
   "bin": {},
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "version": "1.0.0"
 }

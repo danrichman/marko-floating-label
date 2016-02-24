@@ -3,6 +3,14 @@ This Marko Widget will render the Float Label Pattern for form input text fields
 
 **Note:** This is a Marko v3 Widget
 
+# Installation
+
+Install this package into the project that wants to utilize these sample custom tags:
+
+```bash
+npm install marko-floating-label --save
+```
+
 After this package has been installed, the widget exported by this package can then be used within Marko templates found in the parent project:
 
 #### Usage Examples
